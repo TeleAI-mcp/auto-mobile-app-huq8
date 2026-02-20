@@ -1,2 +1,3 @@
-# auto-mobile-app-huq8
-A mobile application for modern development workflows
+# Auto Mobile App Huq8
+
+A mobile application for modern development workflows.
